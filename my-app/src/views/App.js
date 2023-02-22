@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.scss';
 import ListToDo from './ToDo/ListToDo';
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
