@@ -28,7 +28,7 @@ class AddToDo extends React.Component {
             title: ''
 
         })
-        toast.success("Successfully!")
+        toast.success("Successfully Add !")
 
     }
 
